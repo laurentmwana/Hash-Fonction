@@ -2,7 +2,7 @@
 
 TRAVAIL PRATIQUE DE CRYPTOGRAPHIE
 
-ce travail de cryptographie a été réaliser par :
+REALISER PAR  :
 
 - TAMBWE ANGALI Lebon [président]
 - MWANAMPUTU LABEYA Laurent
