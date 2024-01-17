@@ -16,4 +16,4 @@ REALISER PAR  :
 - KOMOTIR DEPANO Divin
 
 POUR EXECUTER LE PROGRAMME:
-<code> py main.py </code>
+<code> py index.py </code>
