@@ -2,7 +2,7 @@
 
 TRAVAIL PRATIQUE DE CRYPTOGRAPHIE
 
-ce travail de cryptographie a été réaliser par :
+REALISER PAR  :
 
 - TAMBWE ANGALI Lebon [président]
 - MWANAMPUTU LABEYA Laurent
@@ -14,3 +14,6 @@ ce travail de cryptographie a été réaliser par :
 - DIAKABANA DIANGINDU Jesmi
 - MASIKOTI FUTU Jérémie
 - KOMOTIR DEPANO Divin
+
+POUR EXECUTER LE PROGRAMME:
+<code> py main.py </code>
